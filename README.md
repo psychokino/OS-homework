@@ -1,3 +1,3 @@
 # OS-homework
-# lab 1 : using fork creating process
-lab 2 : using 
+# lab 1 : simple shell , using fork() create process
+# lab 2 : use process  
